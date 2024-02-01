@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tylershin-technical/static/css/main.f855e6bc.css",
+    "main.js": "/tylershin-technical/static/js/main.32830bf5.js",
+    "static/js/592.f97cb729.chunk.js": "/tylershin-technical/static/js/592.f97cb729.chunk.js",
+    "static/media/logo.svg": "/tylershin-technical/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tylershin-technical/index.html",
+    "main.f855e6bc.css.map": "/tylershin-technical/static/css/main.f855e6bc.css.map",
+    "main.32830bf5.js.map": "/tylershin-technical/static/js/main.32830bf5.js.map",
+    "592.f97cb729.chunk.js.map": "/tylershin-technical/static/js/592.f97cb729.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.32830bf5.js"
+  ]
+}
