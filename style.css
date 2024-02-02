@@ -216,6 +216,15 @@
         height: 68vh;
         position: relative;
     }
+    .list-header {
+        font-size: 17pt !important;
+    }
+    .right-listh {
+        font-size: 20pt;
+    }
+    .list-p {
+        font-size: 15pt;
+    }
 }
 
 @media (max-width: 640px) {
