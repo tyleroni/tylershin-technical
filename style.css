@@ -23,7 +23,7 @@
 .nav-header {
     padding: 4vh 10% 4vh 10%;
     font-weight: 800;
-    font-size: 50pt;
+    font-size: 35pt;
 
 }
 
@@ -94,7 +94,7 @@
 .footer-h {
     padding: 4% 5% 4% 5%;
     font-weight: 800;
-    font-size: 50pt;
+    font-size: 30pt;
 }
 
 @media (min-width: 1400px) {
@@ -127,11 +127,11 @@
 @media (max-width: 1000px) {
     .nav-header {
         font-weight: 600;
-        font-size: 35pt;
+        font-size: 30pt;
     }
     .footer-h {
         font-weight: 600;
-        font-size: 35pt;
+        font-size: 30pt;
     }
 }
 
@@ -158,11 +158,11 @@
 @media (max-width: 770px) {
     .nav-header {
         font-weight: 600;
-        font-size: 30pt;
+        font-size: 25pt;
     }
     .footer-h {
         font-weight: 600;
-        font-size: 30pt;
+        font-size: 25pt;
     }
     .left-container {
         width: 100%;
@@ -205,11 +205,11 @@
 @media (max-width: 720px) {
     .nav-header {
         font-weight: 600;
-        font-size: 30pt;
+        font-size: 25pt;
     }
     .footer-h {
         font-weight: 600;
-        font-size: 30pt;
+        font-size: 25pt;
     }
     .content-container {
         width: 100%;
@@ -230,11 +230,11 @@
 @media (max-width: 640px) {
     .nav-header {
         font-weight: 600;
-        font-size: 25pt;
+        font-size: 20pt;
     }
     .footer-h {
         font-weight: 600;
-        font-size: 25pt;
+        font-size: 20pt;
     }
     .content-container {
         width: 100%;
@@ -256,10 +256,10 @@
 @media (max-width: 490px) {
     .nav-header {
         font-weight: 600;
-        font-size: 20pt;
+        font-size: 18pt;
     }
     .footer-h {
         font-weight: 600;
-        font-size: 20pt;
+        font-size: 18pt;
     }
 }
