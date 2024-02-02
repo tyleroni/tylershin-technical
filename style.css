@@ -178,9 +178,12 @@
     .right-container {
         width: 97%;
         margin: 0% 0% 0% 0%;
-        padding: 1.5% 3% 1.5% 1.5%;
+        padding: 1% 3% 1% 1.5%;
         position: absolute;
         bottom: 0;
+    }
+    .right-textbox {
+        padding: 3% 2% 1% 5%;
     }
     .footer-container {
         bottom: 0; 
