@@ -91,7 +91,7 @@
     padding: 1%;
     border-radius: 8px;
     height: auto;
-    position: static;
+    
 }
 
 .footer-h {
@@ -160,7 +160,7 @@
     .content-container {
         width: 100%;
         min-height: 70vh;
-        display: block;
+
         position: relative;
     }
     .right-container {
@@ -197,6 +197,7 @@
         width: 100%;
         height: auto;
         box-sizing: border-box;
+        position: absolute;
     }
     .list-element {
         width: 95%;
@@ -220,7 +221,7 @@
         padding: 3% 2% 1% 5%;
     }
     .footer-container {
-        bottom: 0; 
+ 
         position: relative;
         width: 98%;
     }
@@ -267,7 +268,7 @@
     }
     .content-container {
         width: 100%;
-        height: 70vh;
+        min-height: 55vh;
     
     }
     .list-header {
